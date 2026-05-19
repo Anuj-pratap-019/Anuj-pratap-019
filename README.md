@@ -13,7 +13,7 @@
 # 💫 About Me
 
 ```yaml
-Name: Brajesh Kumar
+Name: Anuj Pratap Singh
 Role: Software Engineer
 Experience: 3+ Years
 Specialization:
