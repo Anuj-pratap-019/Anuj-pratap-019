@@ -59,7 +59,7 @@ Achievements:
 
 <div align="center">
 
-<a href="https://github.com/bk7842118">
+<a href="https://github.com/Anuj-pratap-019">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
