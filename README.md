@@ -133,7 +133,7 @@ Achievements:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bk7842118&theme=github-compact&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bk7842118&custom_title=Anuj%20Pratap%20Singh's%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" width="95%"/>
 
 </div>
 
