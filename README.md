@@ -48,7 +48,7 @@ Tech Focus:
     - Firebase
 
 Achievements:
-  - Solved 1500+ DSA Problems
+  - Solved 50+ DSA Problems
   - Strong Problem Solving & System Design Skills
   - Building Scalable & Production-Grade Applications
 ```
