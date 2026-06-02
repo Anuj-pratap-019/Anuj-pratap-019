@@ -59,7 +59,7 @@ An interactive **Python & Streamlit** web application simulating lightweight mut
 ### 📊 [Explore PM: AI-Backed Portfolio Manager & Insurance Advisor](https://github.com/Anuj-pratap-019/Explore_pm)
 An intelligent financial dashboard that uses machine learning and AI to assist users in managing investment portfolios and assessing insurance options.
 - **Features**: Real-time asset performance metrics visualization, personalized risk profiling, and AI-driven dynamic advice.
-- **Live Demo**: Deployed on Render.
+- **Live Demo**: [https://explore-pm.onrender.com](https://explore-pm.onrender.com)
 
 ---
 
