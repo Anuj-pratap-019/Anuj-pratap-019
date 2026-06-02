@@ -12,85 +12,81 @@
 
 # 👨‍💻 About Me
 
-I am **Anuj Pratap Singh**, a Computer Science student focused on:
+Hello! I'm **Anuj Pratap Singh**, a Computer Science and Engineering student at **BML Munjal University** specializing in Full-Stack Web Development, Data Structures & Algorithms, and Intelligent Web Applications.
 
-- Full Stack Web Development
-- Data Structures & Algorithms
-- Problem Solving using C++
-- Building strong computer science fundamentals
-
-I prefer learning by solving problems and building real implementations.
+- 🎓 Currently pursuing my B.Tech in CSE.
+- 💡 Passionate about building functional, high-performance web applications and solving complex algorithmic challenges.
+- 🚀 Strong foundation in Computer Science fundamentals: Operating Systems, Database Management Systems, and networking.
+- 🎯 Actively practicing problem solving on **LeetCode** (primarily using C++).
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ Tech Stack & Skills
 
-### Programming Languages
-- C++
-- JavaScript
-- Python (basic ML usage)
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### Web Development
-- HTML5
-- CSS3
-- JavaScript
-- React.js (if used in repos)
+### 🌐 Web Development & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
-### Backend / Tools
-- Node.js (if used)
-- Git & GitHub
-- VS Code
-
----
-
-# 📊 Coding Profiles
-
-- 🔗 GitHub: https://github.com/Anuj-pratap-019
-- 🔗 LeetCode: https://leetcode.com/u/Anujp_123/
-- 🔗 LinkedIn: https://www.linkedin.com/in/anujpratapsingh019/
-
----
-
-# 🧠 Focus Areas
-
-- Data Structures & Algorithms (C++)
-- Competitive Programming (LeetCode)
-- Logical Problem Solving
-- Full Stack Development Fundamentals
-- Writing clean and optimized code
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-# 📈 GitHub Stats
+# 🚀 Featured Projects
 
+### 🛡️ [LAFSH: Lightweight Smart Home Security Simulator](https://github.com/Anuj-pratap-019/LAFSH-Smart-Home-Security)
+An interactive **Python & Streamlit** web application simulating lightweight mutual authentication, access control (RBAC), and network lifetime routing for fog-based smart home environments.
+- **Performance**: Blocks 6/6 attack vectors (Replay, Cloning, MitM) while achieving **300× lower latency** and **11,000× less energy consumption** than TLS.
+- **Live Demo**: [lafsh-smart-home-security.onrender.com](https://lafsh-smart-home-security.onrender.com/)
+
+### 📊 [Explore PM: AI-Backed Portfolio Manager & Insurance Advisor](https://github.com/Anuj-pratap-019/Explore-PM) *(Adjust link if repository name differs)*
+An intelligent financial dashboard that uses machine learning and AI to assist users in managing investment portfolios and assessing insurance options.
+- **Features**: Real-time asset performance metrics visualization, personalized risk profiling, and AI-driven dynamic advice.
+- **Live Demo**: Deployed on Render.
+
+---
+
+# 📊 Coding Profiles & Stats
+
+### 🏆 Problem Solving
+<a href="https://leetcode.com/u/Anujp_123/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<br/><br/>
+
+### 📈 GitHub Statistics
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anuj-pratap-019&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-pratap-019&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuj-pratap-019&show_icons=true&theme=tokyonight&count_private=true" height="195px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-pratap-019&theme=tokyonight" height="195px" />
 </div>
 
 ---
 
-# 🎯 Current Goal
+# 📬 Connect with Me
 
-- Strengthening DSA and problem-solving skills
-- Improving full-stack development ability
-- Building consistency in competitive programming
-- Preparing for software engineering roles
-
----
-
-# 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/anujpratapsingh019/
-- GitHub: https://github.com/Anuj-pratap-019
-- LeetCode: https://leetcode.com/u/Anujp_123/
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Anuj-pratap-019&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/anujpratapsingh019/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rajawatanuj8989@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
