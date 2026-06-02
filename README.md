@@ -56,7 +56,7 @@ An interactive **Python & Streamlit** web application simulating lightweight mut
 - **Performance**: Blocks 6/6 attack vectors (Replay, Cloning, MitM) while achieving **300× lower latency** and **11,000× less energy consumption** than TLS.
 - **Live Demo**: [lafsh-smart-home-security.onrender.com](https://lafsh-smart-home-security.onrender.com/)
 
-### 📊 [Explore PM: AI-Backed Portfolio Manager & Insurance Advisor](https://github.com/Anuj-pratap-019/Explore-PM) *(Adjust link if repository name differs)*
+### 📊 [Explore PM: AI-Backed Portfolio Manager & Insurance Advisor](https://github.com/Anuj-pratap-019/Explore_pm)
 An intelligent financial dashboard that uses machine learning and AI to assist users in managing investment portfolios and assessing insurance options.
 - **Features**: Real-time asset performance metrics visualization, personalized risk profiling, and AI-driven dynamic advice.
 - **Live Demo**: Deployed on Render.
